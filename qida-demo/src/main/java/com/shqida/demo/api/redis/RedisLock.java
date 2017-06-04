@@ -1,4 +1,4 @@
-package com.shqida.demo.redis;
+package com.shqida.demo.api.redis;
 
 /**
  * @Copyright (C), 2012-2022 上海骑达科技 版权所有

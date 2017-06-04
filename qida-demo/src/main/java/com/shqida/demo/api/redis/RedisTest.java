@@ -1,4 +1,4 @@
-package com.shqida.demo.redis;
+package com.shqida.demo.api.redis;
 
 import org.springframework.data.redis.connection.jedis.JedisConnectionFactory;
 import org.springframework.data.redis.core.RedisTemplate;
