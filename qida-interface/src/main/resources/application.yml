@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    username: root
+    password: 1qaz@WSX
+    url: jdbc:mysql://rm-bp1vz4k5b99if0e5io.mysql.rds.aliyuncs.com/qida?useUnicode=true&amp;characterEncoding=UTF-8&amp;zeroDateTimeBehavior=convertToNull&amp;useLocalSessionState=true
+  jpa:
+    database: mysql
+    show-sql: true
+    generate-ddl: true
+    hibernate.ddl-auto: update
+    hibernate.naming_strategy: org.hibernate.cfg.ImprovedNamingStrategy
